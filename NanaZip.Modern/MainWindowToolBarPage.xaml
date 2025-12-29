@@ -120,7 +120,8 @@
         VerticalAlignment="Center"
         Background="Transparent"
         Click="SponsorButtonClick"
-        Content="[Sponsor NanaZip]" />
+        Content="[Sponsor NanaZip]" 
+        Visibility="Collapsed" />
     </Grid>
   </Grid>
 </Page>
